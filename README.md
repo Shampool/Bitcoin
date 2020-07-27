@@ -1,7 +1,7 @@
 # Bitcoin
 扒数字货币交易所数据
 
-type: Python 3.7.5
+type: Python 3.7.5\\
 Packages: Pandas, ccxt
 
 - 币安K线历史数据: 抓取币安交易所的历史数据，构建数据库
